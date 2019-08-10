@@ -19,7 +19,14 @@ Material
  `Numpy Tutorial <https://docs.scipy.org/doc/numpy/user/quickstart.html>`__
 
 
+Exercise
+========
+1.Fibonacci Sequence: Write a function that shows the first n items of the Fibonacci sequence
 
+2.Crawler (Team work): Write a web crawler
+
+3.Data statistics: Given some statistics, use Numpy to do the following:
+    3.1.
 
 Homework
 ========
