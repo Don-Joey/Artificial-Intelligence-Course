@@ -2,7 +2,7 @@
 Course Introduction
 ************************** 
 
-* Fall 2018
+* Fall 2019
 
 * Core Course for Undergraduates in UESTC 
    
@@ -56,11 +56,9 @@ Course Instructors
 
 Teaching Assistants
 =========================
+* Qi-Yuan Zhang - School of Computer Science and Engineering, UESTC
+
 * Wei-Jia Wang - School of Information and Software, UESTC
-
-* Zi-Yang Jia - Department of Computer Science, Rutgers University
-
-* Qi-Da Li - School of Mathematical Science, UESTC
 
 Content
 =========================
@@ -76,7 +74,3 @@ Content
    C07
    C08
    C09
-   C10
-   C11
-   C12
-   C13
