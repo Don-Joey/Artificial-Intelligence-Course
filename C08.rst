@@ -1,5 +1,5 @@
 ************************************
-C08 Deep Learning for Image Analysis
+C08 Deep Learning & Management
 ************************************
 
 
