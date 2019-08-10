@@ -1,5 +1,5 @@
 ***************************
-C04 Social Network Analysis
+C04 Deep Learning Basics
 ***************************
 
 Homework
