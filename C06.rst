@@ -1,5 +1,5 @@
 **************************
-C06 AI Introduction
+C06 Deep learning & Bio-information
 **************************
 
 
